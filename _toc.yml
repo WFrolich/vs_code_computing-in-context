@@ -1,6 +1,6 @@
 format: jb-book
 root: project_3.ipynb
 chapters:
-  - file: project_3.ipynb
+  - file: 
   - file: Project 2_final.ipynb
   - file: Project1.ipynb
