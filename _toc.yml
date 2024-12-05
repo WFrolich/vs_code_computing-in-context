@@ -2,3 +2,5 @@ format: jb-book
 root: lab_12_file.ipynb
 chapters:
   - file: project_3
+  - file: Project 2_final
+  - file: Project1
